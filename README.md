@@ -10,7 +10,6 @@ The repository documents the complete hands-on flow using:
 - VPR (Versatile Place and Route)
 - OpenFPGA
 - Vivado
-- Yosys
 - SOFA FPGA Fabric
 - RISC-V Processor Core (RVMYTH)
 
@@ -45,9 +44,7 @@ The workshop also introduced custom FPGA architectures using SOFA FPGA fabric an
 | Vivado | RTL Simulation and FPGA Analysis |
 | VTR | FPGA CAD Flow |
 | VPR | Placement and Routing |
-| Yosys | RTL Synthesis |
 | OpenFPGA | FPGA Fabric Generation |
-| GTKWave | Waveform Analysis |
 | Verilog | RTL Design |
 | SDC | Timing Constraints |
 
